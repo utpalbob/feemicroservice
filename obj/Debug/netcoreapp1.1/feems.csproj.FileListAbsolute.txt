@@ -1,0 +1,8 @@
+/Users/utpalchakraborty/feems/bin/Debug/netcoreapp1.1/feems.deps.json
+/Users/utpalchakraborty/feems/bin/Debug/netcoreapp1.1/feems.runtimeconfig.json
+/Users/utpalchakraborty/feems/bin/Debug/netcoreapp1.1/feems.runtimeconfig.dev.json
+/Users/utpalchakraborty/feems/obj/Debug/netcoreapp1.1/feems.AssemblyInfo.cs
+/Users/utpalchakraborty/feems/bin/Debug/netcoreapp1.1/feems.dll
+/Users/utpalchakraborty/feems/bin/Debug/netcoreapp1.1/feems.pdb
+/Users/utpalchakraborty/feems/obj/Debug/netcoreapp1.1/feems.dll
+/Users/utpalchakraborty/feems/obj/Debug/netcoreapp1.1/feems.pdb
